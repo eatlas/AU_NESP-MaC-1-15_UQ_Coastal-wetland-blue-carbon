@@ -1,10 +1,10 @@
-# Coastal wetland restoration for blue carbon and co-benefits in Australia – work package to identify restoration sites, carbon abatement and co-benefits, and undertake cost-benefit and economic prioritisation analyses (NESP MaC 1.15, The University of Queensland)
+# Coastal wetland restoration for blue carbon in Australia – work package to identify restoration sites, carbon abatement and co-benefits, and undertake cost-benefit and cost-effectiveness analyses (NESP MaC Project 1.15, The University of Queensland)
 
 Hagger, Valerie, Dr (principal investigator and point of contact). School of Environment, The University of Queensland, St Lucia, Australia  
 Stewart-Sinclair, Phoebe, Dr. Department of Marine Ecology, National Institute of Water and Atmospheric Research Ltd, Hamilton, New Zealand  
 Rossini, Renee, Dr. School of Environment, The University of Queensland, St Lucia, Australia  
 
-See the [metadata record for this dataset](https://doi.org/10.26274/6xrr-1f80) for more information about this dataset and how it was produced.
+See the [metadata record for this dataset](https://doi.org/10.26274/76jj-tk94) for more information about this dataset and how it was produced.
 
 ## Summary
 This repository contains the spatial analysis workflow, data derived from the spatial analysis, and R code to identify the blue carbon restoration opportunity in three case study regions in Australia: 
