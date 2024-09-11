@@ -1,0 +1,12 @@
+Land_type,Soils,Vegetation,Enterprise,AE_ha,Productivity_grouping
+Saltpan,Clay,"Mangroves, marine couch",cattle will browse mangrove and marine couch,0,NA
+Marine plains,Clay,"marine couch grass, red couch grass, blady grass, treeless","Breeding cows, show fattening bullocks during dry season",0.25,2
+Freshwater plains,"Clay, high soil organic matter, ponded pastures","swamp couch grass, freshwater grasses","Fattening bullocks during dry season (jap-ox), maintaining cows in good condition",0.49,1
+Teatree,"Sandy and infertile, poor grasses","teatree, poor grasses - five minute grass, kerosene grass, teatree grass",Feed reserve for adult dry stock towards the end of dry season,0.1,5
+Blue gum flats,"Black clays deficient in phosphorus,  improved pasture","blue gum, moretone bay ash, bluegrass, melonholes",Not specified,0.31,2
+Gum clay flats,Black clays deficient in phosphorus,"ironbark, rusty gum, blue gum, angelton grass, creeping bluegrass","Fattening cows, cows fatten but don't cycle well due to low soil fertility, bullocks slow to fatten",0.25,2
+Box clay flats,Clay,"gum-topped box, poplar box, summer grass, blue grass","Breeding, breeders and weiner heifers, care is need with stocking densities as only small amount of feed produced",0.21,2
+Grey ironbark flats,Alluvial soils with reasonable phosphorus,"grey ironbark, kangaroo grass, bluegrass adjacent to creeks","Fattening, bullock fattening (jap-ox)",0.25,1
+Ironbark-bloodwood country,"granite ridges (lighter sandy soils), red gravelly ridges, good phosphorus","narrow-leaved ironbark, broad-leaved ironbark, grey ironbark, bloodwood,speargrass, kangaroo grass, ","Breeding cows, cycle well",0.25,2
+Serpentine country,"flats to cliff face, hilly, few creek flats, black soils deficient in phosphorus","serpentine ironbark, bloodwood, black teatree, wattles, zamia, blackboys, kerosene and turpentine grasses","feed reserve at end of dry spell for adult dry cattle, uneconomical to improve",0.1,5
+Rosewood country,"lower ridges, some undulating, soils shallow, powdery, gravelly","rosewood, grey ironbank, rhodes grass, buffell grass","shelter for stock in winter, little feed, timber",0.1,5

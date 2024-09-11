@@ -1,0 +1,10 @@
+gas,conversion_equation,conversion_factor
+C_CO2,44/12,3.67
+C_CH4,16/12,1.33
+C_CO,28/12,2.33
+N_N2O,44/28,1.57
+N_NOx,46/14,3.29
+N_NMVOC,14/12,1.17
+CO2_C,12/44,0.27
+CH4_C,12/16,0.75
+N2O_N,28/44,0.64

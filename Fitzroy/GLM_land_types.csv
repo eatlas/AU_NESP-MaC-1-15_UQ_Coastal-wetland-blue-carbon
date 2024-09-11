@@ -1,0 +1,36 @@
+GLMCODE_1,LTYPE1_NAM,RE,land_type
+AL01,Estuary,Estuary,Saltpan
+AL09,Water,Water,Saltpan
+BD13,Loamy alluvials,11.3.9,Grey ironbark flats
+CB02,Blue gum flats,12.3.7,Blue gum flats
+CB04,Gum-topped box,12.11.18,Ironbark-bloodwood country
+CB09,Ironbark and spotted gum on duplex and loam,12.11.6,Ironbark-bloodwood country
+CB12,Tea tree flats,12.3.5,Teatree
+FT02,Blue gum / river red gum flats,"11.3.4, 11.3.25b, 11.3.27c, 11.3.25",Blue gum flats
+FT03,Box flats,11.3.2,Box clay flats
+FT05,Brigalow with melonholes,11.4.9,Blue gum flats
+FT08,Coastal flats with mixed eucalypts on grey clay,11.3.29,Grey ironbark flats
+FT09,Coastal sand dunes,"11.2.5, 11.2.5b, 8.2.7e, 11.2.3, 8.2.2",Teatree
+FT10,Coastal tea tree plains,8.3.13a,Teatree
+FT11,Coolibah floodplains,"11.3.3, 11.3.3c",Grey ironbark flats
+FT13,Eucalypts and bloodwood on clay,11.4.2,Box clay flats
+FT16,Gum-topped box flats,11.11.4c,Ironbark-bloodwood country
+FT17,Lancewood - bendee - rosewood,8.12.29c,Rosewood country
+FT18,Marine plains,"11.1.1, 11.1.2, 11.1.3, 11.1.4, 12.1.2, 12.1.3, ",Marine plains
+FT29,Softwood scrub,8.3.1,Serpentine country
+IB02,Blue gum on cracking clay,11.3.4,Blue gum flats
+IB04,Blue gum on loam and duplex,11.3.25,Blue gum flats
+MO01,Blue gum on alluvial plains,12.3.3,Blue gum flats
+MO08,Mixed open forests on duplex and loam,12.11.14,Ironbark-bloodwood country
+MW01,Alluvial flats and plains,11.3.27x1b,Freshwater plains
+MW02,Coastal eucalypt forests and woodlands,"11.5.8a, 11.11.4a",Ironbark-bloodwood country
+MW04,Coastal tea tree plains,8.1.5,Teatree
+MW05,Coastal wetlands,11.3.27x1a,Freshwater plains
+MW06,Eucalypt hills and ranges,8.2.12a,Ironbark-bloodwood country
+MW07,Marine plains and tidal flats,"8.1.1, 8.1.2",Marine plains
+MW08,Poplar gum woodlands,"11.11.20, 11.3.29a",Box clay flats
+NA,H2M2,NA,Freshwater plains
+NA,H2M2a,NA,Freshwater plains
+NA,H2M2b,NA,Freshwater plains
+NA,H2M3,NA,Freshwater plains
+,,,
